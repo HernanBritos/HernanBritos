@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [HenryAPP](https://henry-app-git-dev.dierodz.vercel.app/)
 
+-📚  My hard skill are: **Javascript, Node.js , React, Redux, PostgreSQL**
+
 - 🌱 I’m currently learning **React Native, Java , TensorFlow.js**
 
 - 📫 How to reach me **h.britosbogado@gmail.com**
