@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hernan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Hernan</h1>
 <h3 align="center">A Full stack Developer from Argentina</h3>
 
 - 🔭 I’m currently working on [HenryAPP](https://henry-app-git-dev.dierodz.vercel.app/)
@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **React Native, Java , TensorFlow.js**
 
 - 📫 How to reach me **h.britosbogado@gmail.com**
+
+- 
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
