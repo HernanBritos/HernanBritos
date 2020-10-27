@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **React Native, Java , TensorFlow.js**
 
 - 📫 How to reach me **h.britosbogado@gmail.com**
- -Hola arroooooonnnn!!
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
