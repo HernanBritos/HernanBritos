@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HenryAPP](https://henry-app-git-dev.dierodz.vercel.app/)
 
-- 📚  My hard skill are: **Javascript, Node.js , React, Redux, PostgreSQL**
+- 📚  My hard skill are: **Javascript, Node, React, Redux, PostgreSQL, GraphQL**
 
 - 🌱 I’m currently learning **React Native, Java , TensorFlow.js**
 
