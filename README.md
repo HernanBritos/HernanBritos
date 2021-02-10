@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **h.britosbogado@gmail.com**
 
-- 📚 Proyectos profesioneles en mi repositorio de [GITHAB](https://gitlab.com/HBritos)
+- 📚 Proyectos profesioneles en mi repositorio de [Github](https://gitlab.com/HBritos)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
