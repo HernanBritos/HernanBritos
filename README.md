@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Hernan</h1>
 <h3 align="center">A Backend Developer</h3>
 
-- 🔭 I’m currently working on [Smartfran]([https://www.smartfran.com/)
-
 - 📚  My hard skill are: **Javascript, Node, Nest, Express, PostgreSQL, AWS, MongoDB, Angular**
 
 - 🌱 I’m currently learning ** *NestJs* *AWS Cloud Service* **
